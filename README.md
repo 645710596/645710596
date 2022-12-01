@@ -15,7 +15,9 @@
 - 副学，前端网络三件套，<a href="https://645710596.github.io/xiaoxing/">我的博客<a>就是这样写的，有人可能会说可以用vue，但对于我来说没啥必要，美观对我来说不重要，重要的是实用性
 
 <h4>找到我：</h4>
-- b站（bilibili）：<a href="https://space.bilibili.com/2024358517?spm_id_from=333.1007.0.0">mc小兴<a>
-- 邮箱：645710596@qq.com
-- QQ：645710596
-- 来<a href="https://github.com/645710596/645710596/issues">Github的Issues<a>
+<ol>
+  <li>b站（bilibili）：<a href="https://space.bilibili.com/2024358517?spm_id_from=333.1007.0.0">mc小兴<a></li>
+  <li>邮箱：645710596@qq.com</li>
+  <li>QQ：645710596</li>
+  <li><a href="https://github.com/645710596/645710596/issues">Github的Issues<a></li>
+</ol>
