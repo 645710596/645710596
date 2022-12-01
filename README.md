@@ -10,3 +10,6 @@
 - 第三学习的语言，学习量较少，想着以后开发一款自己的游戏
 #### HTML/CSS/JS：
 - 副学，前端网络三件套，<a href="https://645710596.github.io/xiaoxing/">我的博客<a>就是这样写的，有人可能会说可以用vue，但对于我来说没啥必要，美观对我来说不重要，重要的是实用性
+
+#### 找到我：
+<a href="https://space.bilibili.com/2024358517?spm_id_from=333.1007.0.0">https://pic.rmb.bdstatic.com/bjh/events/3ff7aca14ff1ed7999f4d3f87356b5f6.png@h_1280<a>
